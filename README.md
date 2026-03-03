@@ -15,8 +15,8 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinThenadi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Kevin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinThenadi&layout=compact&theme=radical&hide_border=true" alt="Kevin's Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=KevinThenadi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Kevin's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KevinThenadi&layout=compact&theme=radical&hide_border=true" alt="Kevin's Top Languages" />
 </p>
 
 ### 🛠️ Tech Stack & Tools
